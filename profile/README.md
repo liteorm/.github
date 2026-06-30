@@ -26,7 +26,7 @@ go get liteorm.org
 |---|---|
 | 🧩 **Two paradigms, one core** | a typed `query` builder and a declarative `orm` share one Session, dialect, scanner & errors — no library lock-in |
 | ⚡ **Modern & lean** | generics-first, no hot-path reflection; CGo-free pure-Go SQLite; a driver-free core, one module per backend |
-| 🤖 **Built for agents** | an embedded studio with **AI built in** (English → SQL), plus shipped Agent Skills + `AGENTS.md` |
+| 🤖 **Built for agents** | an embedded [studio](https://github.com/liteorm/studio) with **AI built in** (English → SQL), plus shipped Agent Skills + `AGENTS.md` |
 | 🎯 **Safe by default** | N+1-safe eager loading, tri-state soft-delete, normalized errors on every backend, codegen on-ramps |
 
 <div align="center">
